@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "env": {
+    "OPENAI_API_KEY": "@openai_api_key",
+    "OPENAI_ASSISTANT_ID": "@openai_assistant_id"
+  }
+}

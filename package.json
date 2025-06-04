@@ -1,0 +1,8 @@
+{
+  "name": "chat-openai-vercel",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
